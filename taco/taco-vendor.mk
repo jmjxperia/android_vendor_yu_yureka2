@@ -89,7 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/cmdc/taco/proprietary/vendor/etc/camera/ov8856_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov8856_chromatix.xml \
     vendor/cmdc/taco/proprietary/vendor/etc/camera/s5k3p3_f3l8yam_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p3_f3l8yam_chromatix.xml \
     vendor/cmdc/taco/proprietary/vendor/bin/mm-qcamera-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/mm-qcamera-daemon \
-	vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov16880_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16880_common.so \
+    vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov16880_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16880_common.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov16880_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16880_cpp_hfr_120.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov16880_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16880_cpp_hfr_60.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov16880_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16880_cpp_hfr_90.so \
@@ -305,7 +305,7 @@ PRODUCT_COPY_FILES += \
     vendor/cmdc/taco/proprietary/vendor/firmware/venus.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/venus.b03 \
     vendor/cmdc/taco/proprietary/vendor/firmware/venus.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/venus.b04 \
     vendor/cmdc/taco/proprietary/vendor/firmware/venus.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/venus.mdt \
-	vendor/cmdc/taco/proprietary/vendor/etc/firmware/fpcta.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b00 \
+    vendor/cmdc/taco/proprietary/vendor/etc/firmware/fpcta.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b00 \
     vendor/cmdc/taco/proprietary/vendor/etc/firmware/fpcta.b01:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b01 \
     vendor/cmdc/taco/proprietary/vendor/etc/firmware/fpcta.b02:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b02 \
     vendor/cmdc/taco/proprietary/vendor/etc/firmware/fpcta.b03:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b03 \
@@ -321,7 +321,7 @@ PRODUCT_COPY_FILES += \
     vendor/cmdc/taco/proprietary/vendor/etc/firmware/goodixfp.b05:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b05 \
     vendor/cmdc/taco/proprietary/vendor/etc/firmware/goodixfp.b06:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b06 \
     vendor/cmdc/taco/proprietary/vendor/etc/firmware/goodixfp.mdt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.mdt \
-	vendor/cmdc/taco/proprietary/vendor/lib64/libtfa9895.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtfa9895.so \
+    vendor/cmdc/taco/proprietary/vendor/lib64/libtfa9895.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtfa9895.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libtfa9895.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtfa9895.so \
     vendor/cmdc/taco/proprietary/vendor/media/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/media/tfa98xx.cnt \
     vendor/cmdc/taco/proprietary/vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.alarm@1.0-service \
