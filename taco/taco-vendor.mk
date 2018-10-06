@@ -138,7 +138,6 @@ PRODUCT_COPY_FILES += \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov8856_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_video_full.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov8856_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_zsl_preview.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_ov8856_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_zsl_video.so \
-    vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_s5k3l8_zsl_video_ak7345.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_zsl_video_ak7345.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_s5k3p3_f3l8yam_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p3_f3l8yam_common.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_s5k3p3_f3l8yam_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p3_f3l8yam_cpp_hfr_120.so \
     vendor/cmdc/taco/proprietary/vendor/lib/libchromatix_s5k3p3_f3l8yam_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p3_f3l8yam_cpp_hfr_60.so \
