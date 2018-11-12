@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),taco)
+ifeq ($(TARGET_DEVICE),YUREKA2)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libts_detected_face_hal
