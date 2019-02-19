@@ -182,7 +182,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libchromatix_s5k4h8_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h8_snapshot.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libchromatix_s5k4h8_zsl_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h8_zsl_preview_dw9763.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libchromatix_s5k4h8_zsl_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k4h8_zsl_video_dw9763.so \
-    vendor/yu/YUREKA2/proprietary/vendor/etc/qdcm_calib_data_nt35596_1080p_video_EBBG.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt35596_1080p_video_EBBG.xml \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/qdcm_calib_data_otm1901a_1080p_video_DJ_otp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_otm1901a_1080p_video_DJ_otp.xml \
     vendor/yu/YUREKA2/proprietary/vendor/etc/qdcm_calib_data_r63350_1080p_video_Tianma.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_r63350_1080p_video_Tianma.xml \
     vendor/yu/YUREKA2/proprietary/vendor/bin/gx_fpd:$(TARGET_COPY_OUT_VENDOR)/bin/gx_fpd \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libcom_fingerprints_service.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcom_fingerprints_service.so \
