@@ -16,6 +16,22 @@
 
 # blobs from YUREKA2
 PRODUCT_COPY_FILES += \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b00 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.b01:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b01 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.b02:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b02 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.b03:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b03 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.b04:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b04 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.b05:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b05 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.b06:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.b06 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/fpcta.mdt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/fpcta.mdt \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b00 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b01:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b01 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b02:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b02 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b03:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b03 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b04:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b04 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b05:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b05 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b06:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b06 \
+    vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.mdt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.mdt \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/csidtg_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_camera.xml \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/csidtg_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_chromatix.xml \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/msm8953_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/msm8953_camera.xml \
