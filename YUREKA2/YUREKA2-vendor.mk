@@ -32,6 +32,9 @@ PRODUCT_COPY_FILES += \
     vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b05:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b05 \
     vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.b06:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b06 \
     vendor/yu/YUREKA2/proprietary/vendor/etc/firmware/goodixfp.mdt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.mdt \
+    vendor/yu/YUREKA2/proprietary/vendor/lib64/libtfa9895.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtfa9895.so \
+    vendor/yu/YUREKA2/proprietary/vendor/lib/libtfa9895.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtfa9895.so \
+    vendor/yu/YUREKA2/proprietary/vendor/media/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/media/tfa98xx.cnt \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/csidtg_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_camera.xml \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/csidtg_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/csidtg_chromatix.xml \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/msm8953_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/msm8953_camera.xml \
