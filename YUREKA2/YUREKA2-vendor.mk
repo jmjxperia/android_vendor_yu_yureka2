@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/ov8856_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ov8856_chromatix.xml \
     vendor/yu/YUREKA2/proprietary/vendor/etc/camera/s5k3p3_f3l8yam_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p3_f3l8yam_chromatix.xml \
     vendor/yu/YUREKA2/proprietary/vendor/bin/mm-qcamera-daemon::$(TARGET_COPY_OUT_VENDOR)/bin/mm-qcamera-daemon \
+	vendor/yu/YUREKA2/proprietary/vendor/bin/fm_qsoc_patches::$(TARGET_COPY_OUT_VENDOR)/bin/fm_qsoc_patches \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libChamomilePA.so:$(TARGET_COPY_OUT_VENDOR)/lib/libChamomilePA.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libchromaflash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromaflash.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libflash_pmic.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_pmic.so \
