@@ -49,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/msm8953-common/proprietary/framework/audiosphere.jar:system/framework/audiosphere.jar \
     vendor/yu/msm8953-common/proprietary/framework/uimlpalibrary.jar:system/framework/uimlpalibrary.jar \
     vendor/yu/msm8953-common/proprietary/framework/uimremotesimlocklibrary.jar:system/framework/uimremotesimlocklibrary.jar \
-    vendor/yu/msm8953-common/proprietary/framework/WfdCommon.jar:system/framework/WfdCommon.jar \
     vendor/yu/msm8953-common/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/yu/msm8953-common/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/yu/msm8953-common/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
@@ -1064,4 +1063,5 @@ PRODUCT_PACKAGES += \
     com.qualcomm.location \
     com.qti.snapdragon.sdk.display \
     qcrilhook \
+	WfdCommon \
     vendor.qti.hardware.alarm-V1.0-java 
