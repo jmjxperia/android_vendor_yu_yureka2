@@ -594,7 +594,9 @@ PRODUCT_COPY_FILES += \
     vendor/yu/msm8953-common/proprietary/vendor/lib64/vendor.qti.latency@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.latency@2.0.so \
     vendor/yu/msm8953-common/proprietary/vendor/lib64/vendor.qti.voiceprint@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.voiceprint@1.0.so \
     vendor/yu/msm8953-common/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db \
-	vendor/yu/msm8953-common/proprietary/vendor/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qualcomm.qti.wifidisplayhal@1.0.so
+	vendor/yu/msm8953-common/proprietary/vendor/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
+	vendor/yu/msm8953-common/proprietary/bin/perfservice:$(TARGET_COPY_OUT_VENDOR)/bin/perfservice \
+	vendor/yu/msm8953-common/proprietary/etc/init/perfservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/perfservice.rc	
 
 PRODUCT_PACKAGES += \
     vendor.display.color@1.0 \
@@ -610,4 +612,6 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     PowerOffAlarm \
     TimeService \
-    WfdCommon
+    WfdCommon \
+	QPerformance \
+	UxPerformance
