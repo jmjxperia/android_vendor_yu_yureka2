@@ -632,6 +632,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/YUREKA2/proprietary/vendor/bin/fm_qsoc_patches::$(TARGET_COPY_OUT_VENDOR)/bin/fm_qsoc_patches \
     vendor/yu/YUREKA2/proprietary/vendor/bin/gx_fpd:$(TARGET_COPY_OUT_VENDOR)/bin/gx_fpd \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libChamomilePA.so:$(TARGET_COPY_OUT_VENDOR)/lib/libChamomilePA.so \
+    vendor/yu/YUREKA2/proprietary/vendor/lib/libDxHdcp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libDxHdcp.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libchromaflash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromaflash.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libflash_pmic.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_pmic.so \
     vendor/yu/YUREKA2/proprietary/vendor/lib/libjpegdhw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdhw.so \
