@@ -892,7 +892,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/YUREKA2/proprietary/vendor/firmware/a420_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a420_pm4.fw 
 
 PRODUCT_PACKAGES += \
-    libbtconfigstore \
     libgpustats \
     libsdm-disp-vndapis \
     libthermalclient \
